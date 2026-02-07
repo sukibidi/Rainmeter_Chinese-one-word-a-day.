@@ -3,3 +3,7 @@
 License = Free To Use.
 
 // This are my small project for myself to learn chinese which may use by others aswell.
+// Download Rainmeter via official Rainmeter websites [ https://www.rainmeter.net/  ]
+// Install Rainmeter on your PC
+// Put the files C:\Users\%USER%\Documents\Rainmeter\Skins\
+// Load the skin using the rainmeter.
